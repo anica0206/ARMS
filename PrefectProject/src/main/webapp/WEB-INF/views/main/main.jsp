@@ -152,7 +152,6 @@
                             <i class="fa fa-users text-secondary"></i>
                             <h5>접속률</h5>
                             <div class="d" style="font-size: 17px">89%</div>
-                            </h1>
                         </div>
                     </div>
                     <div class="col-md-3 col-lg-3 col-xl-3">
@@ -160,7 +159,6 @@
                             <i class="fa fa-users text-secondary"></i>
                             <h5>채팅방에 있는 인원</h5>
                             <div class="d" style="font-size: 17px">33</div>
-                            </h1>
                         </div>
                     </div>
                     <div class="col-md-3 col-lg-3 col-xl-3">
@@ -168,7 +166,6 @@
                             <i class="fa fa-users text-secondary"></i>
                             <h5>게시글 수</h5>
                             <div class="d" style="font-size: 17px">${totalBoard}</div>
-                            </h1>
                         </div>
                     </div>
                 </div>
@@ -275,10 +272,6 @@
     </div>
     <!-- Tastimonial End -->
 
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-primary border-3 border-primary rounded-circle back-to-top">
-    <i class="fa fa-arrow-up"></i>
-    </a>
 
 <jsp:include page="/WEB-INF/cmn/footer.jsp"></jsp:include>
 

@@ -29,12 +29,18 @@
     <!-- Template Javascript -->
     <script src="${CP}/resources/template/js/main.js" type="text/javascript"></script>
     <style>
-    .footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-	z-index: 9999; /* 확실하게 맨 앞에 위치하도록 높은 값을 설정 */
-   
-	}	
+    .footer { 
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 9999; /* 확실하게 맨 앞에 위치하도록 높은 값을 설정 */
+    }
+
+    body {
+        padding-bottom: 100px; /* 푸터 높이에 맞게 하단 여백을 조정합니다. */
+    }
+    
+
+    
 	</style>
     

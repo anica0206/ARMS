@@ -184,16 +184,23 @@
 
 		<!-- table -->
 		<table class="table table-responsive" id="boardTable">
-			<thead>
-				<tr>
-					<th scope="col" class="text-center col-lg-1  col-sm-1">NO</th>
-					<th scope="col" class="text-center col-lg-5  col-sm-6">제목</th>
-					<th scope="col" class="text-center col-lg-2  col-sm-1">등록일</th>
-					<th scope="col" class="text-center col-lg-2  ">등록자</th>
-					<th scope="col" class="text-center col-lg-1  ">조회수</th>
-					<th scope="col" class="text-center" style="display: none;">SEQ</th>
-				</tr>
-			</thead>
+		 	<colgroup>
+		        <col width="15%">
+		        <col width="40%">
+		        <col width="15%">
+		        <col width="15%">
+		        <col width="15%">
+		    </colgroup>
+		    <thead>
+		        <tr>
+		            <th scope="col" class="text-center col-lg-1  col-sm-1">NO</th>
+		            <th scope="col" class="text-center col-lg-2  col-sm-3">제목</th>
+		            <th scope="col" class="text-center col-lg-2  col-sm-1">등록일</th>
+		            <th scope="col" class="text-center col-lg-2  ">등록자</th>
+		            <th scope="col" class="text-center col-lg-1  ">조회수</th>
+		            <th scope="col" class="text-center" style="display: none;">SEQ</th>
+		        </tr>
+		    </thead>
 			<tbody>
 				<c:choose>
 				    <c:when test="${ not empty list }">
@@ -306,7 +313,7 @@
 			</div>
 
 		</form>
-		<br> <br>
+
 		<!--// 검색 ----------------------------------------------------------------->
 
 	</div>
