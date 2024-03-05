@@ -64,12 +64,18 @@
 <br>
 
 # 기능 시연
+* 메인
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/main.gif"  width="800" height="400"/>
 * 게시판
 <img src="https://github.com/hykim-king/PREFECT/blob/main/doc/%EA%B2%8C%EC%8B%9C%ED%8C%90.gif"  width="800" height="400"/>
-
-
-
-
+* 쪽지
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/dm.gif"  width="800" height="400"/>
+* 출석
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/attendance.gif"  width="800" height="400"/>
+* 성적
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/%EA%B2%8C%EC%8B%9C%ED%8C%90.gif"  width="800" height="400"/>
+* 캘린더
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/calendar.gif"  width="800" height="400"/>
 
 
 </details>
