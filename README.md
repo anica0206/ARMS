@@ -24,7 +24,8 @@
 - 팀원 : [장진규](https://github.com/jingyu0454), [고송민](https://github.com/go-song-min), [김진수](https://github.com/Lavi1208), [김태훈](https://github.com/diamatemarcus), [송레오](https://github.com/thdfpdh), [이한나](https://github.com/AnNile25), [정민호](https://github.com/mn8467)
 
 - 기획서: [Prefect_기획서.pdf](https://github.com/hykim-king/PREFECT/blob/main/doc/Prefect_기획서.pdf)
-- 최종보고서 발표 자료(PPT): https://docs.google.com/presentation/d/1gLP0-LXGme8pvRS8vQqSWH-acYo-zkG9/edit?usp=drive_link
+- 최종보고서 발표 자료(PPT):<br>
+  https://docs.google.com/presentation/d/1gLP0-LXGme8pvRS8vQqSWH-acYo-zkG9/edit?usp=drive_link
 <br>
 <br>
 
