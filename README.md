@@ -23,6 +23,7 @@
 - 팀장 : [채영서](https://github.com/anica0206)
 - 팀원 : [장진규](https://github.com/jingyu0454), [고송민](https://github.com/go-song-min), [김진수](https://github.com/Lavi1208), [김태훈](https://github.com/diamatemarcus), [송레오](https://github.com/thdfpdh), [이한나](https://github.com/AnNile25), [정민호](https://github.com/mn8467)
 
+- 기획서: [Prefect_기획서.pdf](https://github.com/hykim-king/PREFECT/blob/main/doc/Prefect_기획서.pdf)
 <br>
 <br>
 
@@ -44,7 +45,7 @@
 
 * 개발 환경
 
-<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/tool.png"  width="800" height="400"/>
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/tool.png" width="800" height="400"/>
 
 
 * WBS
@@ -61,6 +62,7 @@
 
 * 데이터 베이스 설계 (ERD)  
 ⌞ [데이터_베이스_설계서.xlm](https://github.com/hykim-king/PREFECT/blob/main/doc/prefect.exerd)
+<img src="https://github.com/hykim-king/PREFECT/blob/main/doc/ERD.png" width="800" height="400"/>
 <br>
 <br>
 
